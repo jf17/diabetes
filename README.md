@@ -1,6 +1,7 @@
 # diabetes
 
-Install Anaconda
+### 1) установить пакет Anaconda   !!!
 
-pip install tensorflow
+### 2) установить пакет TensorFlow  !!!
+* conda install tensorflow 
 
