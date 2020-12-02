@@ -1,6 +1,6 @@
 # diabetes
 
-## Install Anaconda
+Install Anaconda
 
-## pip install tensorflow
+pip install tensorflow
 
